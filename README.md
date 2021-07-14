@@ -1,4 +1,4 @@
-***This new Web is created by Ankita Sikder, students of BTECH, in University of Engineering and Management, Kolkata.***
+***This new Web Page is created by Ankita Sikder, students of BTECH, in University of Engineering and Management, Kolkata.***
 
 ***Email Id: ankita.sikder14@gmail.com.***
 
@@ -18,7 +18,7 @@
 
 <div align="justified">
   
-This is a web page of DC Comic's super heroine Wonder Woman. She is one of the most powerful super heroines in marvel, dc and other comics.
+This is a web page of DC Comic's super heroine Wonder Woman. She is one of the most powerful super heroines in marvel, dc and other comics. Wonder Woman has worldwide fans of her power, moves etc. This webpage is for dc and wonder woman fans. Everyone likes superheroes and their stories, origind, powers, thaughts. So, I have assembled many interesting facts, supercool images and also movie links of Wonder Woman here. The fans and newcomers of dc world can easily know everything about the great super heroine Diana Prince or Wonder Woman. Here I have added slider of 10 images for getting a very nice view on this character.
 
 </div>
 
@@ -27,6 +27,8 @@ This is a web page of DC Comic's super heroine Wonder Woman. She is one of the m
 ## Why I have made this :point_down:
 
 <div align="justified">
+
+I have made this webpage for the fans of Wonder Woman and also those who want to know about this world famous sperheroine. Users can esplore many facts, images, movie links using this web page.
 
 </div>
 
