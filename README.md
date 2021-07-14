@@ -42,8 +42,8 @@ I have used _[marvel fandom wiki]_(https://marvelcinematicuniverse.fandom.com/wi
 
 <div align="center">
      
-<a href="w1.PNG"><img src="w1.PNG" width="800" height= "300"></a> 
+<a href="w1.PNG"><img src="w1.PNG" width="900" height= "300"></a> 
 
-<a href="w2.PNG"><img src="w2.PNG" width="800" height= "300"></a>
+<a href="w2.PNG"><img src="w2.PNG" width="900" height= "300"></a>
 
 </div>
