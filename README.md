@@ -22,7 +22,7 @@ This is a web page of DC Comic's super heroine Wonder Woman. She is one of the m
 
 </div>
 
-***LINK : :point_right: ***
+***LINK : :point_right:  https://ankitasikder.github.io/WonderWoman_webpage/***
   
 ## Why I have made this :point_down:
 
